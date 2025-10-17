@@ -94,7 +94,7 @@ public class TransactionManager {
             System.out.print("Enter date(YYYY-MM-DD):");
             String date = keyboard.nextLine().trim();
 
-            System.out.print("Enter time(HH:MM:ss):");
+            System.out.print("Enter time(HH:MM):");
             String time = keyboard.nextLine().trim();
 
             System.out.print("Enter description:");
